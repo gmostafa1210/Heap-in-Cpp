@@ -1,4 +1,4 @@
- #include<iostream>
+#include<iostream>
 using namespace std;
 
 void insert_h (int a[],int n) {
